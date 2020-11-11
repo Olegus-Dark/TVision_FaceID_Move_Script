@@ -1,5 +1,7 @@
 # TVision_FaceID_Move_Script
 
+>Для работы нужно скачать [**ЭТОТ**](https://github.com/Olegus-Dark/TVision_FaceID_Move_Script/archive/main.zip) архив
+
 > Скрипты для переброса данных пользователей в **ПО Tvision** в случае утери данных в резуальтате ошибок ПО.
 
 > Суть скрипта:
